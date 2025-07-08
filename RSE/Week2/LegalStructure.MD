@@ -1,0 +1,3 @@
+Hello world!
+
+I would create a Producing progam for youth Producers that are intrested in wanting to become a  a producer i would name the bussiness stu510 it would be a non-profit progam. It would be a non profit progam because it would be eaiser for me to run the progam and take care of my priorities outside of the progrogam. I Would make a music progam because there are not a lot of producers That are of african american decent so me teaching someone how to make beats would go a long way so then they can pass it on and it will become a lot more African American people.
