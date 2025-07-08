@@ -5,12 +5,52 @@
 }
 
 body {
-    background-color:rgb(51, 51, 10) 
+    background-color:rgb(16, 16, 11) 
     color #669999
 }
 
-#header{ 
-    width: 100;
-    
+#header { 
+    width: 100%;
+    height:90vh;
+    background-image: url("https://producerhive.com/wp-content/uploads/2019/02/bocky_balboa-2.jpg");
+    background-size: auto;
+    background-position: center;
 
+}
+
+.contanier {
+padding: 10px 10%;
+
+}
+nav{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.logo{
+ width: 10px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    color:black
+}
+
+nav ul li a::after{
+    content: '';
+    width: 10%;
+    height: 3px;
+    background: firebrick ;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
 }
